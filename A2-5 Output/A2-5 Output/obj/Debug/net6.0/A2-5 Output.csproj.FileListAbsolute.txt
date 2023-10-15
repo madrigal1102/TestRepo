@@ -1,0 +1,14 @@
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\bin\Debug\net6.0\A2-5 Output.exe
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\bin\Debug\net6.0\A2-5 Output.deps.json
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\bin\Debug\net6.0\A2-5 Output.runtimeconfig.json
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\bin\Debug\net6.0\A2-5 Output.dll
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\bin\Debug\net6.0\A2-5 Output.pdb
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\A2-5 Output.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\A2-5 Output.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\A2-5 Output.AssemblyInfo.cs
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\A2-5 Output.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\A2-5 Output.dll
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\refint\A2-5 Output.dll
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\A2-5 Output.pdb
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\A2-5 Output.genruntimeconfig.cache
+E:\Microsoft Visual Studio\Projects\A2-5 Output\A2-5 Output\obj\Debug\net6.0\ref\A2-5 Output.dll

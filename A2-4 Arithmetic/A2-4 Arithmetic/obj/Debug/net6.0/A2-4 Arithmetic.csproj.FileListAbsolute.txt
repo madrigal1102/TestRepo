@@ -1,0 +1,14 @@
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\bin\Debug\net6.0\A2-4 Arithmetic.exe
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\bin\Debug\net6.0\A2-4 Arithmetic.deps.json
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\bin\Debug\net6.0\A2-4 Arithmetic.runtimeconfig.json
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\bin\Debug\net6.0\A2-4 Arithmetic.dll
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\bin\Debug\net6.0\A2-4 Arithmetic.pdb
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\A2-4 Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\A2-4 Arithmetic.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\A2-4 Arithmetic.AssemblyInfo.cs
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\A2-4 Arithmetic.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\A2-4 Arithmetic.dll
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\refint\A2-4 Arithmetic.dll
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\A2-4 Arithmetic.pdb
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\A2-4 Arithmetic.genruntimeconfig.cache
+E:\Microsoft Visual Studio\Projects\A2-4 Arithmetic\A2-4 Arithmetic\obj\Debug\net6.0\ref\A2-4 Arithmetic.dll

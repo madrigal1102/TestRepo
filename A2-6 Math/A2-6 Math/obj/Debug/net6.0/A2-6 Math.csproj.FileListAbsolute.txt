@@ -1,0 +1,14 @@
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\bin\Debug\net6.0\A2-6 Math.exe
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\bin\Debug\net6.0\A2-6 Math.deps.json
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\bin\Debug\net6.0\A2-6 Math.runtimeconfig.json
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\bin\Debug\net6.0\A2-6 Math.dll
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\bin\Debug\net6.0\A2-6 Math.pdb
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\A2-6 Math.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\A2-6 Math.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\A2-6 Math.AssemblyInfo.cs
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\A2-6 Math.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\A2-6 Math.dll
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\refint\A2-6 Math.dll
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\A2-6 Math.pdb
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\A2-6 Math.genruntimeconfig.cache
+E:\Microsoft Visual Studio\Projects\A2-6 Math\A2-6 Math\obj\Debug\net6.0\ref\A2-6 Math.dll
